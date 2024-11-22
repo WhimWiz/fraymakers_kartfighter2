@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "d4ae3085-182f-4c04-ad9b-f3bb2017d6da",
+  "id": "stagetemplateMovingPlatformScript",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "LINE_SEGMENT_STRUCTURE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

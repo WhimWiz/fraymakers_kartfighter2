@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "b868bad2-1e28-459f-8517-fa7362dbc3a8",
+  "id": "gamemanagerScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "LINE_SEGMENT_STRUCTURE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

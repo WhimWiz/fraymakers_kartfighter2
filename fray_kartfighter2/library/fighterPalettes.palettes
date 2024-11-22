@@ -1,0 +1,162 @@
+{
+  "colors": [
+    {
+      "$id": "dd694452-abf7-4904-93a2-c96dfe67b515",
+      "color": "0xFF000000",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "dfc10b88-cc35-4268-927e-082552b1dfba",
+      "color": "0xFFB53120",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "e1ed2e5f-c471-4c50-aab1-238910599d61",
+      "color": "0xFFFFFFFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "2a8ab49f-e065-4c18-9067-4b4ce1454e1f",
+      "color": "0xFFF7D8A5",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "70a919ef-9a6f-474b-833f-35adc27c8713",
+      "color": "0xFF002A88",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "625476d2-a478-42a8-b266-9a7510645a58",
+      "color": "0xFF388700",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "445924af-2e8f-4a72-aec7-a0f7f5b10e9b",
+  "id": "fighterPalettes",
+  "imageAsset": "ed87ee02-4296-48d5-bafe-6777f9926c10",
+  "maps": [
+    {
+      "$id": "4035dbe2-f000-42fb-95a9-57a207ee3fa2",
+      "colors": [
+        {
+          "paletteColorId": "dd694452-abf7-4904-93a2-c96dfe67b515",
+          "targetColor": "0xFF1A1A1A"
+        },
+        {
+          "paletteColorId": "dfc10b88-cc35-4268-927e-082552b1dfba",
+          "targetColor": "0xFFB53120"
+        },
+        {
+          "paletteColorId": "e1ed2e5f-c471-4c50-aab1-238910599d61",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "2a8ab49f-e065-4c18-9067-4b4ce1454e1f",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "70a919ef-9a6f-474b-833f-35adc27c8713",
+          "targetColor": "0xFF002A88"
+        },
+        {
+          "paletteColorId": "625476d2-a478-42a8-b266-9a7510645a58",
+          "targetColor": "0xFF388700"
+        }
+      ],
+      "name": "0",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true
+        }
+      }
+    },
+    {
+      "$id": "cbed3c91-0f0c-4c8c-afad-fb8ec5461bd5",
+      "colors": [
+        {
+          "paletteColorId": "dd694452-abf7-4904-93a2-c96dfe67b515",
+          "targetColor": "0xFF000000"
+        },
+        {
+          "paletteColorId": "dfc10b88-cc35-4268-927e-082552b1dfba",
+          "targetColor": "0xFF5CE430"
+        },
+        {
+          "paletteColorId": "e1ed2e5f-c471-4c50-aab1-238910599d61",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "2a8ab49f-e065-4c18-9067-4b4ce1454e1f",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "70a919ef-9a6f-474b-833f-35adc27c8713",
+          "targetColor": "0xFF002A88"
+        },
+        {
+          "paletteColorId": "625476d2-a478-42a8-b266-9a7510645a58",
+          "targetColor": "0xFFFF8170"
+        }
+      ],
+      "name": "1",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "accd9935-f541-4e92-a1e1-93a0551924d0",
+      "colors": [
+        {
+          "paletteColorId": "dd694452-abf7-4904-93a2-c96dfe67b515",
+          "targetColor": "0xFF000000"
+        },
+        {
+          "paletteColorId": "dfc10b88-cc35-4268-927e-082552b1dfba",
+          "targetColor": "0xFFD6C300"
+        },
+        {
+          "paletteColorId": "e1ed2e5f-c471-4c50-aab1-238910599d61",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "2a8ab49f-e065-4c18-9067-4b4ce1454e1f",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "70a919ef-9a6f-474b-833f-35adc27c8713",
+          "targetColor": "0xFFA10078"
+        },
+        {
+          "paletteColorId": "625476d2-a478-42a8-b266-9a7510645a58",
+          "targetColor": "0xFF5C116A"
+        }
+      ],
+      "name": "2",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

@@ -1,0 +1,17 @@
+{
+  "export": true,
+  "guid": "9193dbde-f368-4585-a0a6-165748a98caa",
+  "id": "gamemanagerStats",
+  "language": "hscript",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

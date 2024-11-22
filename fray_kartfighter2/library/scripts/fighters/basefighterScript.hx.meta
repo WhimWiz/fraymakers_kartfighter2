@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "7efc1c65-8297-48d5-bbdc-e38ead089b46",
+  "id": "basefighterScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "PROJECTILE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

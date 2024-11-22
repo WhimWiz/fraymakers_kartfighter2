@@ -1,0 +1,136 @@
+{
+  "colors": [
+    {
+      "$id": "30d873ae-23ee-4b44-b554-e66c17afa40a",
+      "color": "0xFF000000",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "b49f3176-76af-46ec-a5ea-5588d797e6d6",
+      "color": "0xFFB53120",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "c7f04060-15c4-48e0-ae71-e86355811f33",
+      "color": "0xFFFFFFFF",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "03d3e8cc-a8fd-4850-a1cf-53d5a1e6fe20",
+      "color": "0xFFF7D8A5",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "279434fa-f72f-49d6-bbe8-694c96f1bca9",
+      "color": "0xFF002A88",
+      "name": "Untitled Palette Color",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "export": true,
+  "guid": "315d00dd-330d-47c4-af0f-2a8b72b02c2a",
+  "id": "mari_palette",
+  "imageAsset": "7c18536b-0be7-4408-a004-2f05b27565a8",
+  "maps": [
+    {
+      "$id": "5ae27588-a112-4c62-a18b-0f4986fd7b04",
+      "colors": [
+        {
+          "paletteColorId": "30d873ae-23ee-4b44-b554-e66c17afa40a",
+          "targetColor": "0xFF000000"
+        },
+        {
+          "paletteColorId": "b49f3176-76af-46ec-a5ea-5588d797e6d6",
+          "targetColor": "0xFFB53120"
+        },
+        {
+          "paletteColorId": "c7f04060-15c4-48e0-ae71-e86355811f33",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "03d3e8cc-a8fd-4850-a1cf-53d5a1e6fe20",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "279434fa-f72f-49d6-bbe8-694c96f1bca9",
+          "targetColor": "0xFF002A88"
+        }
+      ],
+      "name": "1",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "f7b32f7e-9208-4eda-b355-89ce43347542",
+      "colors": [
+        {
+          "paletteColorId": "30d873ae-23ee-4b44-b554-e66c17afa40a",
+          "targetColor": "0xFF000000"
+        },
+        {
+          "paletteColorId": "b49f3176-76af-46ec-a5ea-5588d797e6d6",
+          "targetColor": "0xFF5CE430"
+        },
+        {
+          "paletteColorId": "c7f04060-15c4-48e0-ae71-e86355811f33",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "03d3e8cc-a8fd-4850-a1cf-53d5a1e6fe20",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "279434fa-f72f-49d6-bbe8-694c96f1bca9",
+          "targetColor": "0xFF0041CE"
+        }
+      ],
+      "name": "2",
+      "pluginMetadata": {
+      }
+    },
+    {
+      "$id": "e36ffb8b-ece8-4dbc-b263-e6108d8fa57b",
+      "colors": [
+        {
+          "paletteColorId": "30d873ae-23ee-4b44-b554-e66c17afa40a",
+          "targetColor": "0xFF000000"
+        },
+        {
+          "paletteColorId": "b49f3176-76af-46ec-a5ea-5588d797e6d6",
+          "targetColor": "0xFFEBBF00"
+        },
+        {
+          "paletteColorId": "c7f04060-15c4-48e0-ae71-e86355811f33",
+          "targetColor": "0xFFFFFFFF"
+        },
+        {
+          "paletteColorId": "03d3e8cc-a8fd-4850-a1cf-53d5a1e6fe20",
+          "targetColor": "0xFFF7D8A5"
+        },
+        {
+          "paletteColorId": "279434fa-f72f-49d6-bbe8-694c96f1bca9",
+          "targetColor": "0xFF8D3397"
+        }
+      ],
+      "name": "3",
+      "pluginMetadata": {
+      }
+    }
+  ],
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

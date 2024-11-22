@@ -1,0 +1,65 @@
+{
+  "resourceId": "kartfight",
+  "content": [{
+    "id": "kartfight",
+    "name": "Stage Template",
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "stagetemplateStageStats",
+    "scriptId": "stagetemplateScript",
+    "music": [],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::stagetemplate.stagetemplatehazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "stagetemplatehazards",
+    "name": "Stage Template",
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "stagetemplateStageStats",
+    "scriptId": "stagetemplateScript",
+    "music": []
+  },
+  {
+    "id": "stagetemplateMovingPlatform",
+    "type": "structure",
+    "objectStatsId": "stagetemplateMovingPlatformStats",
+    "scriptId": "stagetemplateMovingPlatformScript"
+  },
+  {
+    "id": "gameManager",
+    "type": "projectile",
+    "objectStatsId": "gamemanagerStats",
+    "scriptId": "gamemanagerScript",
+    "costumesId": "fighterPalettes"
+  },{
+    "id": "fighter",
+    "type": "projectile",
+    "objectStatsId": "basefighterStats",
+    "scriptId": "basefighterScript",
+    "animationStatsId": "basefighterAnimationStats",
+    "hitboxStatsId": "basefighterHitboxStats",
+    "costumesId": "fighterPalettes"
+  },{
+    "id": "fighterProjectile",
+    "type": "projectile",
+    "objectStatsId": "baseprojectileStats",
+    "scriptId": "baseprojectileScript",
+    "animationStatsId": "basefighterAnimationStats",
+    "hitboxStatsId": "basefighterHitboxStats",
+    "costumesId": "fighterPalettes"
+  }]
+}

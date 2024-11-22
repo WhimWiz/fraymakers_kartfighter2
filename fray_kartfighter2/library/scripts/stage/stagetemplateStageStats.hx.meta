@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "d7998d48-bfc1-4808-a778-607550fe1231",
+  "id": "stagetemplateStageStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

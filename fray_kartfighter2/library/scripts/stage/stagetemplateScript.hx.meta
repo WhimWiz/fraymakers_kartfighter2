@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "d895f91d-7531-486c-a268-7cbcdf76143c",
+  "id": "stagetemplateScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "STAGE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
